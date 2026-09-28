@@ -1,0 +1,10 @@
+{
+  "description": "Manage common expenses effortlessly with a clean and intuitive design tailored for building administration, enhancing financial oversight for users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
